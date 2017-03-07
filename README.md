@@ -1,1 +1,1 @@
-# GoSourceAnalysis
+####The best way to learn a language and sharpen your programming skills is to read its source code and document findings along the way, this repo is for some golang source code with my own comments and notes 
